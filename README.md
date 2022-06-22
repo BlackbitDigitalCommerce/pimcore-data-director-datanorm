@@ -1,4 +1,4 @@
-# Pimcore Datanorm export add-on for Pimcore Data Director
+# Datanorm export add-on for Pimcore Data Director
 
 This bundle adds a result callback function template to Data Director's attribute mapping to create Datanorm exports. It defines virtual fields which you can map to your Pimcore data object fields. The result callback function already contains all the logic to create a Datanorm export file.
 
