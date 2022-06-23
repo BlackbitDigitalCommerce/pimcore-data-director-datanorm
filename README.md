@@ -12,7 +12,6 @@ As it uses Data Director's export capabilities, your Datanorm exports profit by:
     * automatically send data the other APIs
 * intelligent checks whether anything changed since the last export. If nothing changed, export document gets delivered from cache
 * access exports via URL, for example to pull Datanorm export into an external system instead of pushing it
-* * *
 
 ## How to get the plugin
 
